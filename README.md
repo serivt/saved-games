@@ -9,3 +9,4 @@ Saved games of my favorite video games.
   * Gold Skulltulas: 25/100.
   * Masks: 2/8.
   * Fairy of Magic: 3/6.
+  * Medallions: 1/6.
