@@ -1,6 +1,10 @@
 # Saved Games
 Saved games of my favorite video games.
 
+
+## Super nintendo (SNES)
+* The Legend Of Zelda: A Link to the past
+
 ## Nintendo 64
 * The Legend Of Zelda: Ocarina Of Time - Master Quest.
   * Spiritual stones: 3/3.
