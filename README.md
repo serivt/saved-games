@@ -4,8 +4,8 @@ Saved games of my favorite video games.
 
 ## Super nintendo (SNES)
 * The Legend Of Zelda: A Link to the past
-  * Pendants of Virtue: 1/3.
-  * Hearths: 5/20
+  * Pendants of Virtue: 2/3.
+  * Hearths: 6/20
 
 ## Nintendo 64
 * The Legend Of Zelda: Ocarina Of Time - Master Quest.
